@@ -11,9 +11,9 @@ import {
 } from 'reactstrap';
 
 import Home from './Home';
-import Donate from './Donate';
-import Petitions from './Petitions';
-import Text from './Text';
+import Donate from './Donate/Donate';
+import Petitions from './Petitions/Petitions';
+import Text from './Text/Text';
 
 const Sitebar = (props) => {
     const [isOpen, setIsOpen] = useState(false);
