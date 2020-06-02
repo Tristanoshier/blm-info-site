@@ -1,5 +1,7 @@
 .main-header {
     font-size: 5rem;
+    font-family: 'Hind', sans-serif;
+    margin-top: 3rem;
 }
 
 .donate {
@@ -17,4 +19,10 @@
 
 .title-header {
     font-size: 1.5rem;
+}
+
+@media (max-width: 500px) {
+    .main-header {
+        font-size: 3rem;
+    }
 }

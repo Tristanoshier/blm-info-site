@@ -1,5 +1,7 @@
 import React, { useState } from 'react';
 import { Switch, Route, Link } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBars } from '@fortawesome/free-solid-svg-icons'
 import {
     Collapse,
     Navbar,
@@ -22,19 +24,22 @@ const Sitebar = () => {
 
     return (
         <div>
-            <Navbar color="light" light expand="md">
-                <Link to="/">Home</Link>
-                <NavbarToggler onClick={toggle} />
+            <Navbar className="sitebar" color="black" light expand="md">
+                <Link className="site-link" to="/">#BLM</Link>
+                <NavbarToggler className="desktop-nav" onClick={toggle} />
+                <span onClick={toggle} class="navbar-toggler-icon mobile-nav">
+                    <FontAwesomeIcon className="site-hamburger" icon={faBars} size="lg"></FontAwesomeIcon>
+                </span>
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
-                            <Link className="pr-3" to="/donate">Donate</Link>
+                            <Link onClick={toggle} className="pr-3 site-link" to="/donate">DONATE</Link>
                         </NavItem>
                         <NavItem>
-                            <Link className="pr-3" to="/petitions">Petitions</Link>
+                            <Link onClick={toggle} className="pr-3 site-link" to="/petitions">PETITIONS</Link>
                         </NavItem>
                         <NavItem>
-                            <Link className="pr-3" to="/text">Text</Link>
+                            <Link onClick={toggle} className="pr-3 site-link" to="/text">TEXT</Link>
                         </NavItem>
                     </Nav>
                 </Collapse>

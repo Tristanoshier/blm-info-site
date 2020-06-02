@@ -1,0 +1,16 @@
+.title-text {
+    font-family: 'Hind', sans-serif;
+    font-size: 7rem;
+    margin-top: 1rem;
+    letter-spacing: .5rem;
+}
+
+.second-text {
+    margin-bottom: 3rem;
+}
+
+@media (max-width: 500px){
+    .title-text {
+        font-size: 2rem;
+    }
+}

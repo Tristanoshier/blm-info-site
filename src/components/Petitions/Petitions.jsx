@@ -9,27 +9,27 @@ export default function Petitions() {
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.raiseTheDegree.title}</strong></CardTitle>
                 <CardText >{petitionLinks.raiseTheDegree.desc}</CardText>
-                <a href={petitionLinks.raiseTheDegree.link} target="_blank">Sign the Petition</a>
+                <a href={petitionLinks.raiseTheDegree.link} target="_blank">SIGN THE PETITION</a>
             </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.defundThePolice.title}</strong></CardTitle>
                 <CardText>{petitionLinks.defundThePolice.desc}</CardText>
-                <a href={petitionLinks.defundThePolice.link} target="_blank">Sign the Petition</a>
+                <a href={petitionLinks.defundThePolice.link} target="_blank">SIGN THE PETITION</a>
             </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.colorOfChange.title}</strong></CardTitle>
                 <CardText>{petitionLinks.colorOfChange.desc}</CardText>
-                <a href={petitionLinks.colorOfChange.link} target="_blank">Sign the Petition</a>
+                <a href={petitionLinks.colorOfChange.link} target="_blank">SIGN THE PETITION</a>
             </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.weCantBreathe.title}</strong></CardTitle>
                 <CardText>{petitionLinks.weCantBreathe.desc}</CardText>
-                <a href={petitionLinks.weCantBreathe.link} target="_blank">Sign the Petition</a>
+                <a href={petitionLinks.weCantBreathe.link} target="_blank">SIGN THE PETITION</a>
             </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.naacp.title}</strong></CardTitle>
                 <CardText>{petitionLinks.naacp.desc}</CardText>
-                <a href={petitionLinks.naacp.link} target="_blank">Sign the Petition</a>
+                <a href={petitionLinks.naacp.link} target="_blank">SIGN THE PETITION</a>
             </Card>
         </Container>
     )

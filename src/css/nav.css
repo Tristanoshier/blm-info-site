@@ -1,0 +1,30 @@
+.sitebar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color: black;
+}
+
+.site-link {
+    color: white;
+    font-family: 'Hind', sans-serif;
+}
+
+.site-hamburger {
+    color: white;
+}
+
+.mobile-nav {
+    visibility: hidden;
+}
+
+@media (max-width: 765px) {
+    .desktop-nav {
+        display: none;
+    }
+
+    .mobile-nav {
+        visibility: visible;
+    }
+}
