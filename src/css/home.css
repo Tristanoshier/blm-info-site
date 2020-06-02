@@ -5,11 +5,56 @@
     letter-spacing: .5rem;
 }
 
+.home-header {
+    font-size: 1.5rem;
+    font-family: 'Hind', sans-serif;
+}
+
+.home-card {
+    margin-bottom: 3rem;
+    background-color: black;
+    color: white;
+    min-width: 200px;
+    border-bottom:  1px solid lightgrey;
+}
+
 .second-text {
     margin-bottom: 3rem;
 }
 
-@media (max-width: 500px){
+.help {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+@media (max-width: 1250px) {
+    .third-text {
+        font-size: 5rem;
+    }
+}
+
+@media (max-width: 950px) {
+    .title-text {
+        font-size: 5rem;
+    }
+
+    .third-text {
+        font-size: 4rem;
+    }
+}
+
+@media (max-width: 790px) {
+    .title-text {
+        font-size: 4rem;
+    }
+
+    .third-text {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width: 620px) {
     .title-text {
         font-size: 2rem;
     }
