@@ -1,3 +1,7 @@
+# Black Lives Matter resources site
+
+I created this site so people could easily access links to donate or sign petitions. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
