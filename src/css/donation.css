@@ -1,0 +1,12 @@
+.donate {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.info-card {
+    margin-bottom: 3rem;
+    background-color: black;
+    color: white;
+    border-bottom: 1px solid lightgrey;
+}

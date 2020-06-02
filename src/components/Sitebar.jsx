@@ -15,7 +15,7 @@ import Donate from './Donate/Donate';
 import Petitions from './Petitions/Petitions';
 import Text from './Text/Text';
 
-const Sitebar = (props) => {
+const Sitebar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
     const toggle = () => setIsOpen(!isOpen);
@@ -28,13 +28,13 @@ const Sitebar = (props) => {
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="ml-auto" navbar>
                         <NavItem>
-                            <Link to="/donate">Donate</Link>
+                            <Link className="pr-3" to="/donate">Donate</Link>
                         </NavItem>
                         <NavItem>
-                            <Link to="/petitions">Petitions</Link>
+                            <Link className="pr-3" to="/petitions">Petitions</Link>
                         </NavItem>
                         <NavItem>
-                            <Link to="/text">Text</Link>
+                            <Link className="pr-3" to="/text">Text</Link>
                         </NavItem>
                     </Nav>
                 </Collapse>
