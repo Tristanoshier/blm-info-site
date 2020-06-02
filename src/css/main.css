@@ -3,6 +3,9 @@
 @import './nav.css';
 @import './text.css';
 
+html {
+    overflow-x: hidden;
+}
 body {
     background-color: black;
 }
