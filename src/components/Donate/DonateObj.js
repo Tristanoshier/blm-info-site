@@ -31,7 +31,7 @@ let donateLinks = {
         link: 'https://secure.everyaction.com/4omQDAR0oUiUagTu0EG-Ig2'
     },
     reclaimBlock: {
-        title : 'Reclaim the Block',
+        title : 'Reclaim The Block',
         desc : 'Coalation that advocates for and invests in community-led safety initiatives in Minneapolis neighborhoods.',
         link: 'https://secure.everyaction.com/zae4prEeKESHBy0MKXTIcQ2'
     },
