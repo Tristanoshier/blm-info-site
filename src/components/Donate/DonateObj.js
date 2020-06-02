@@ -18,7 +18,7 @@ let donateLinks = {
     campaignZero: {
         title : 'Campaign Zero',
         desc : 'Online platform and organization that utilizes research-based policy solutions to end police brutality in America.',
-        link: 'https://www.paypal.com/donate/?token=0ANKtvOFGhM_qQ0fe8NI9tAAS-58vzb8nNw_3LIRpUfdTnVNiD-mXh7ufaKnO0aH3ubDn0&country.x=US&locale.x=US'
+        link: 'https://www.joincampaignzero.org/'
     },
     minnesotaFreeFund: {
         title : 'Minnesota Freedom Fund',
