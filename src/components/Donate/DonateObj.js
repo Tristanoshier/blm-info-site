@@ -40,6 +40,16 @@ let donateLinks = {
         desc : 'Non-profit organization that is dedicated to exposing root causes of dynamic social and environmental issues.',
         link: 'https://unicornriot.ninja/donate/'
     },
+     naacp: {
+        title: 'NAACP | We Are Done Dying',
+        desc: 'Demand appointment of an independent special prosecutor to lead the federal government’s full and impartial investigation of the murder of George Floyd. Demand appointment of an independent special prosecutor to lead the federal government’s full and impartial investigation of the murder of George Floyd.',
+        link: 'https://secure.actblue.com/donate/naacp-1'
+    },
+    npap: {
+        title: 'National Police Accountability Project',
+        desc: 'Educates and informs the public about issues relating to police misconduct. Provides infromation resources for non-profit and community groups who work with victims of police abuse.',
+        link: 'https://www.nlg-npap.org/donate/'
+    }
 }
 
 export default donateLinks;

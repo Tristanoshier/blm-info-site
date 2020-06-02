@@ -19,12 +19,11 @@ let petitionLinks = {
         desc: 'The four officers have been terminated by the Minneapolis Police Department -- but this is not enough. We are demanding the attention of Hennepin County District Attorney Mike Freeman and the immediate arrest and second degree murder charge of all four officers involved in this senseless and merciless killing.  ',
         link: 'https://www.wecantbreathenational.org/'
     },
-     naacp: {
-        title: 'NAACP | We Are Done Dying',
-        desc: 'Demand appointment of an independent special prosecutor to lead the federal government’s full and impartial investigation of the murder of George Floyd. Demand appointment of an independent special prosecutor to lead the federal government’s full and impartial investigation of the murder of George Floyd.',
-        link: 'https://secure.actblue.com/donate/naacp-1'
-    },
-
+    naacpldf : {
+        title: 'NAACP LDF',
+        desc: 'Site that has many resources for donating and petitions to sign.',
+        link: 'https://www.naacpldf.org'
+    }
 }
 
 export default petitionLinks;

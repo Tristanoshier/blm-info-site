@@ -46,6 +46,21 @@ export default function Donate() {
                 <CardText>{donateLink.unicornRiot.desc}</CardText>
                 <a href={donateLink.unicornRiot.link} target="_blank">DONATE</a>
             </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.naacp.title}</strong></CardTitle>
+                <CardText>{donateLink.naacp.desc}</CardText>
+                <a href={donateLink.naacp.link} target="_blank">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.naacp.title}</strong></CardTitle>
+                <CardText>{donateLink.naacp.desc}</CardText>
+                <a href={donateLink.naacp.link} target="_blank">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.npap.title}</strong></CardTitle>
+                <CardText>{donateLink.npap.desc}</CardText>
+                <a href={donateLink.npap.link} target="_blank">DONATE</a>
+            </Card>
         </Container>
     )
 }

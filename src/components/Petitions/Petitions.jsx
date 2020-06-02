@@ -27,9 +27,9 @@ export default function Petitions() {
                 <a href={petitionLinks.weCantBreathe.link} target="_blank">SIGN THE PETITION</a>
             </Card>
             <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{petitionLinks.naacp.title}</strong></CardTitle>
-                <CardText>{petitionLinks.naacp.desc}</CardText>
-                <a href={petitionLinks.naacp.link} target="_blank">SIGN THE PETITION</a>
+                <CardTitle className="title-header"><strong>{petitionLinks.naacpldf.title}</strong></CardTitle>
+                <CardText>{petitionLinks.naacpldf.desc}</CardText>
+                <a href={petitionLinks.naacpldf.link} target="_blank">SIGN THE PETITION | DONATE</a>
             </Card>
         </Container>
     )
