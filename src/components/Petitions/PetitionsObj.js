@@ -23,6 +23,21 @@ let petitionLinks = {
         title: 'NAACP LDF',
         desc: 'Site that has many resources for donating and petitions to sign.',
         link: 'https://www.naacpldf.org'
+    },
+    breonnaTaylor : {
+        title: 'Justice For Breonna Taylor',
+        desc: 'Breonna Taylor was an award-winning EMT and model citizen. She loved her family and community. She worked at two hospitals as an essential worker during the pandemic.One month ago, a division of the Louisville Police Department performed an illegal, unannounced drug raid on her home. Not a single officer announced themselves before ramming down her door and firing 22 shots, shooting Breonna 8 times, killing her. ',
+        link: 'http://chng.it/zkKLRTryG6',
+    },
+    AhmuadArbery : {
+        title: 'Justice For Ahmaud Arbery',
+        desc: 'Ahmuad was taking his morning jog in his neighborhood in Georgia and came a cross a white father and son who shot and killed him for taking a jog. There is video footage of this cold blooded murder but, the father and son who murdered an innocent man are walking free because one of them used to be a cop.',
+        link: 'https://www.change.org/p/human-rights-campaign-justice-for-ahmuad-arbery',
+    },
+    runWithMaud : {
+        title: 'Run With Maud',
+        desc: 'He was out for a jog when he was chased down, shot, and killed by two white supremacists. We must demand the justice he deserves. ',
+        link: 'https://www.runwithmaud.com/',
     }
 }
 
