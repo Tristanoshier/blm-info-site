@@ -38,6 +38,11 @@ let petitionLinks = {
         title: 'Run With Maud',
         desc: 'He was out for a jog when he was chased down, shot, and killed by two white supremacists. We must demand the justice he deserves. ',
         link: 'https://www.runwithmaud.com/',
+    },
+    justiceForSean : {
+        title: 'Justice For Sean',
+        desc: 'This is Sean. He was a victim of police brutality that happened May 6th, 2020. He was running from the police and was on Facebook live. The police officer tased him while he was going down and then shot the man 14 times in the back. Police brutality is real! This was in Indianapolis, Indiana. They’re already investigating the shooting.',
+        link: 'https://www.change.org/p/white-house-justice-for-sean?recruiter=69572427&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_abi&recruited_by_id=a4411689-1113-4cc7-b38b-2457ccedf381'
     }
 }
 
