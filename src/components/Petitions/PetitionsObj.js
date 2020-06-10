@@ -43,6 +43,21 @@ let petitionLinks = {
         title: 'Justice For Sean',
         desc: 'This is Sean. He was a victim of police brutality that happened May 6th, 2020. He was running from the police and was on Facebook live. The police officer tased him while he was going down and then shot the man 14 times in the back. Police brutality is real! This was in Indianapolis, Indiana. They’re already investigating the shooting.',
         link: 'https://www.change.org/p/white-house-justice-for-sean?recruiter=69572427&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_abi&recruited_by_id=a4411689-1113-4cc7-b38b-2457ccedf381'
+    },
+    justiceForMatthew : {
+        title: 'Justice For Mattthew Tucker',
+        desc: 'Matthew Tucker was murdered by two Riverside police officers, Rosa Calderon and Michael Hamilton, in Temecula on May 4th, 2016.',
+        link: 'http://chng.it/LbN2KqvHNT'
+    },
+    justiceEmerald : {
+        title: 'Justice For Emerald Black',
+        desc: 'Because of the abhorrent attacks done by the police, Ms. Black suffered not only physical, but emotional injuries. She lost her unborn child.',
+        link: 'http://chng.it/5YMPRqg4mV'
+    },
+    fireJared : {
+        title: 'Fire Jared Campbell',
+        desc: 'ery recently, a video was released of a little kid screaming after getting maced by an officer named Jared Campbell. He is part of the Seattle Police Department and has a badge number of 8470.',
+        link: 'http://chng.it/DJhDKWhHqG'
     }
 }
 

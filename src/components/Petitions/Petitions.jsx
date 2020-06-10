@@ -12,6 +12,21 @@ export default function Petitions() {
                 <a href={petitionLinks.breonnaTaylor.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>
             </Card>
             <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.justiceForMatthew.title}</strong></CardTitle>
+                <CardText>{petitionLinks.justiceForMatthew.desc}</CardText>
+                <a href={petitionLinks.justiceForMatthew.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.justiceEmerald.title}</strong></CardTitle>
+                <CardText>{petitionLinks.justiceEmerald.desc}</CardText>
+                <a href={petitionLinks.justiceEmerald.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.fireJared.title}</strong></CardTitle>
+                <CardText>{petitionLinks.fireJared.desc}</CardText>
+                <a href={petitionLinks.fireJared.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>
+            </Card>
+            <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.justiceForSean.title}</strong></CardTitle>
                 <CardText>{petitionLinks.justiceForSean.desc}</CardText>
                 <a href={petitionLinks.justiceForSean.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>

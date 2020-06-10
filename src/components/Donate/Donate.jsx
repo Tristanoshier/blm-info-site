@@ -12,6 +12,31 @@ export default function Donate() {
                 <a href={donateLink.blm.link} target="_blank" rel="noopener noreferrer">DONATE</a>
             </Card>
             <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.snap4freedom.title}</strong></CardTitle>
+                <CardText>{donateLink.snap4freedom.desc}</CardText>
+                <a href={donateLink.snap4freedom.link} target="_blank" rel="noopener noreferrer">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.blackAidsInstitute.title}</strong></CardTitle>
+                <CardText>{donateLink.blackAidsInstitute.desc}</CardText>
+                <a href={donateLink.blackAidsInstitute.link} target="_blank" rel="noopener noreferrer">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.houseGG.title}</strong></CardTitle>
+                <CardText>{donateLink.houseGG.desc}</CardText>
+                <a href={donateLink.houseGG.link} target="_blank" rel="noopener noreferrer">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.transJustice.title}</strong></CardTitle>
+                <CardText>{donateLink.transJustice.desc}</CardText>
+                <a href={donateLink.transJustice.link} target="_blank" rel="noopener noreferrer">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{donateLink.okraProject.title}</strong></CardTitle>
+                <CardText>{donateLink.okraProject.desc}</CardText>
+                <a href={donateLink.okraProject.link} target="_blank" rel="noopener noreferrer">DONATE</a>
+            </Card>
+            <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{donateLink.equalJustice.title}</strong></CardTitle>
                 <CardText>{donateLink.equalJustice.desc}</CardText>
                 <a href={donateLink.equalJustice.link} target="_blank" rel="noopener noreferrer">DONATE</a>

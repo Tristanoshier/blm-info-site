@@ -109,7 +109,33 @@ let donateLinks = {
         title: 'Black Futures Lab',
         desc: 'Black Futures Lab works with Black people to transform our communities, building Black political power and changing the way that power operates—locally, statewide, and nationally.',
         link: 'https://blackfutureslab.org/'
+    },
+    snap4freedom: {
+        title: 'SNAPCO',
+        desc: 'Builds power of Black Trans and queer people to force systemic divestment from the prison industiral complex and invest in community support.',
+        link: 'https://www.snap4freedom.org/'
+    },
+    blackAidsInstitute: {
+        title: 'Black AIDS Institute',
+        desc: 'Working to end the Black HIV epidemic through policy, advocacy, and high-quality direct HIV services.',
+        link: 'https://blackaids.org/'
+    },
+    houseGG: {
+        title: 'HOUSE OF GG',
+        desc: 'Creating safe and transformative spaces for community to heal, and nurturing them into tomorrows leaders, focusing on trans women of color in the South.',
+        link: 'https://houseofgg.org/'
+    },
+    transJustice: {
+        title: 'Trans Justice Funding Project',
+        desc: 'Community-led funding initiative to support grassroots trans justice groups run by and for trans people.',
+        link: 'https://www.transjusticefundingproject.org/'
+    },
+    okraProject: {
+        title: 'The OKRA Project',
+        desc: 'Collective that seeks to address the global crisis faced by Black Trans people by bringing home-cooked meals and resources to the community.',
+        link: 'https://www.theokraproject.com/'
     }
+
 
 }
 
