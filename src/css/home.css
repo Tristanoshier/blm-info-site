@@ -1,3 +1,9 @@
+.home {
+    background: -webkit-linear-gradient(red, orange,yellow, green, blue, purple);
+    text-align: center;
+    color: white;
+}
+
 .title-text {
     font-family: 'Hind', sans-serif;
     font-size: 7rem;
@@ -12,10 +18,24 @@
 
 .home-card {
     margin-bottom: 3rem;
-    background-color: black;
+    background-color: transparent;
     color: white;
     min-width: 200px;
-    border-bottom:  1px solid lightgrey;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid white;
+}
+
+.home-link {
+    color: white;
+}
+
+.home-link:hover {
+    color: lightgray;
+}
+
+.first-text {
+    margin-top: 2rem;
 }
 
 .second-text {
@@ -26,7 +46,6 @@
     display: flex;
     flex-wrap: wrap;
 }
-
 
 @media (max-width: 1250px) {
     .third-text {

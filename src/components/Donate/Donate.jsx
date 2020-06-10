@@ -27,11 +27,6 @@ export default function Donate() {
                 <a href={donateLink.nationalBailFund.link} target="_blank" rel="noopener noreferrer">DONATE</a>
             </Card>
             <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{donateLink.campaignZero.title}</strong></CardTitle>
-                <CardText>{donateLink.campaignZero.desc}</CardText>
-                <a href={donateLink.campaignZero.link} target="_blank" rel="noopener noreferrer">DONATE</a>
-            </Card>
-            <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{donateLink.blackFuturesLab.title}</strong></CardTitle>
                 <CardText>{donateLink.blackFuturesLab.desc}</CardText>
                 <a href={donateLink.blackFuturesLab.link} target="_blank" rel="noopener noreferrer">DONATE</a>
@@ -47,24 +42,9 @@ export default function Donate() {
                 <a href={donateLink.duNord.link} target="_blank" rel="noopener noreferrer">DONATE</a>
             </Card>
             <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{donateLink.minnesotaFreeFund.title}</strong></CardTitle>
-                <CardText>{donateLink.minnesotaFreeFund.desc}</CardText>
-                <a href={donateLink.minnesotaFreeFund.link} target="_blank" rel="noopener noreferrer">DONATE</a>
-            </Card>
-            <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{donateLink.georgeFloydMem.title}</strong></CardTitle>
                 <CardText>{donateLink.georgeFloydMem.desc}</CardText>
                 <a href={donateLink.georgeFloydMem.link} target="_blank" rel="noopener noreferrer">DONATE</a>
-            </Card>
-            <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{donateLink.blackVisionsCollective.title}</strong></CardTitle>
-                <CardText>{donateLink.blackVisionsCollective.desc}</CardText>
-                <a href={donateLink.blackVisionsCollective.link} target="_blank" rel="noopener noreferrer">DONATE</a>
-            </Card>
-            <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{donateLink.reclaimBlock.title}</strong></CardTitle>
-                <CardText>{donateLink.reclaimBlock.desc}</CardText>
-                <a href={donateLink.reclaimBlock.link} target="_blank" rel="noopener noreferrer">DONATE</a>
             </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{donateLink.unicornRiot.title}</strong></CardTitle>

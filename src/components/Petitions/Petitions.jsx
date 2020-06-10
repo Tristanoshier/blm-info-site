@@ -21,12 +21,6 @@ export default function Petitions() {
                 <CardText>{petitionLinks.AhmuadArbery.desc}</CardText>
                 <a href={petitionLinks.AhmuadArbery.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
             </Card>
-          
-            <Card className="info-card" body>
-                <CardTitle className="title-header"><strong>{petitionLinks.raiseTheDegree.title}</strong></CardTitle>
-                <CardText >{petitionLinks.raiseTheDegree.desc}</CardText>
-                <a href={petitionLinks.raiseTheDegree.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
-            </Card>
             <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.defundThePolice.title}</strong></CardTitle>
                 <CardText>{petitionLinks.defundThePolice.desc}</CardText>
