@@ -3,16 +3,19 @@
     top: 0;
     width: 100%;
     z-index: 1;
-    background-color: white;
+    background-color: #564438;
 }
 
 .site-link {
-    color: black;
+    color: #c7b6a8;
     font-family: 'Hind', sans-serif;
+}
+.site-link:hover {
+    color: lightgray;
 }
 
 .site-hamburger {
-    color: black;
+    color: #c7b6a8;
 }
 
 .mobile-nav {

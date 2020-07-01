@@ -26,7 +26,7 @@ let petitionLinks = {
     },
     breonnaTaylor : {
         title: 'Justice For Breonna Taylor',
-        desc: 'Breonna Taylor was an award-winning EMT and model citizen. She loved her family and community. She worked at two hospitals as an essential worker during the pandemic.One month ago, a division of the Louisville Police Department performed an illegal, unannounced drug raid on her home. Not a single officer announced themselves before ramming down her door and firing 22 shots, shooting Breonna 8 times, killing her. ',
+        desc: 'Breonna Taylor was an award-winning EMT and model citizen. She loved her family and community. She worked at two hospitals as an essential worker during the pandemic. One month ago, a division of the Louisville Police Department performed an illegal, unannounced drug raid on her home. Not a single officer announced themselves before ramming down her door and firing 22 shots, shooting Breonna 8 times, killing her. ',
         link: 'http://chng.it/zkKLRTryG6',
     },
     AhmuadArbery : {
@@ -56,7 +56,7 @@ let petitionLinks = {
     },
     fireJared : {
         title: 'Fire Jared Campbell',
-        desc: 'ery recently, a video was released of a little kid screaming after getting maced by an officer named Jared Campbell. He is part of the Seattle Police Department and has a badge number of 8470.',
+        desc: 'Very recently, a video was released of a little kid screaming after getting maced by an officer named Jared Campbell. He is part of the Seattle Police Department and has a badge number of 8470.',
         link: 'http://chng.it/DJhDKWhHqG'
     }
 }

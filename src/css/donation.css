@@ -1,20 +1,34 @@
 .main-header {
+    color: #c7b6a8;
     font-size: 5rem;
     font-family: 'Hind', sans-serif;
-    margin-top: 3rem;
+    margin-top: 5rem;
 }
 
 .donate {
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: #a0826a;
 }
 
 .info-card {
     margin-bottom: 3rem;
     background-color: transparent;
     color: white;
+    border: none;
     border-bottom: 1px solid lightgrey;
+}
+
+.page-link {
+    color: white;
+    background-color: #a0826a;
+    border: none;
+}
+
+.page-link:hover {
+    background-color: #a0826a;
+    color: #c7b6a8;
+    text-decoration: underline;
 }
 
 .title-header {

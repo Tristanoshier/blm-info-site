@@ -1,7 +1,7 @@
 .home {
-    background: -webkit-linear-gradient(red, orange,yellow, green, blue, purple);
+    background: #a0826a;
     text-align: center;
-    color: white;
+    color: #c7b6a8;
 }
 
 .title-text {
@@ -35,7 +35,7 @@
 }
 
 .first-text {
-    margin-top: 2rem;
+    margin-top: 5rem;
 }
 
 .second-text {
