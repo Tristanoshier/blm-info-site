@@ -12,6 +12,41 @@ export default function Petitions() {
                 <a className="page-link" href={petitionLinks.breonnaTaylor.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>
             </Card>
             <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.elijah.title}</strong></CardTitle>
+                <CardText>{petitionLinks.elijah.desc}</CardText>
+                <a className="page-link" href={petitionLinks.elijah.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.kadijah.title}</strong></CardTitle>
+                <CardText>{petitionLinks.kadijah.desc}</CardText>
+                <a className="page-link" href={petitionLinks.kadijah.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.cornelius.title}</strong></CardTitle>
+                <CardText>{petitionLinks.cornelius.desc}</CardText>
+                <a className="page-link" href={petitionLinks.cornelius.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.jamal.title}</strong></CardTitle>
+                <CardText>{petitionLinks.jamal.desc}</CardText>
+                <a className="page-link" href={petitionLinks.jamal.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.tete.title}</strong></CardTitle>
+                <CardText>{petitionLinks.tete.desc}</CardText>
+                <a className="page-link" href={petitionLinks.tete.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.darriusStewart.title}</strong></CardTitle>
+                <CardText>{petitionLinks.darriusStewart.desc}</CardText>
+                <a className="page-link" href={petitionLinks.darriusStewart.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
+                <CardTitle className="title-header"><strong>{petitionLinks.dafonteMiller.title}</strong></CardTitle>
+                <CardText>{petitionLinks.dafonteMiller.desc}</CardText>
+                <a className="page-link" href={petitionLinks.dafonteMiller.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION</a>
+            </Card>
+            <Card className="info-card" body>
                 <CardTitle className="title-header"><strong>{petitionLinks.justiceForMatthew.title}</strong></CardTitle>
                 <CardText>{petitionLinks.justiceForMatthew.desc}</CardText>
                 <a className="page-link" href={petitionLinks.justiceForMatthew.link} target="_blank" rel="noopener noreferrer">SIGN THE PETITION </a>

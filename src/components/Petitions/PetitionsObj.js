@@ -58,7 +58,42 @@ let petitionLinks = {
         title: 'Fire Jared Campbell',
         desc: 'Very recently, a video was released of a little kid screaming after getting maced by an officer named Jared Campbell. He is part of the Seattle Police Department and has a badge number of 8470.',
         link: 'http://chng.it/DJhDKWhHqG'
-    }
+    },
+    elijah : {
+        title: 'Justice For Elijah McClain',
+        desc: 'Sign this petition to bring justice for Elijah. Demand that these officers are held accountable.',
+        link: 'http://chng.it/StcFzRKt76'
+    },
+    kadijah : {
+        title: 'Justice For Kadijah M. Saccoh',
+        desc: '"I am demanding justice for my 5 year old cousin Kadijah Saccoh. Kadijah was a U.S. citizen who was brutally raped, tortured, and strangled to death in Sierra Leone, a country on the coast of West Africa."',
+        link: 'http://chng.it/kzTTxXmDDm'
+    },
+    cornelius : {
+        title: 'Justice For Cornelius! Shut Sequel Down',
+        desc: 'Last week, 16-year-old Cornelius Fredericks died after being restrained for throwing a sandwich at Lakeside Academy in Kalamazoo, MI, which is run by the national for-profit company Sequel Youth and Family Services.',
+        link: 'http://chng.it/hD7P2sNt6x'
+    },
+    jamal : {
+        title: 'Justice For Jamal Williams',
+        desc: 'Jamal Williams, 22, a recent college graduate and football star from Western Michigan UniversityJamal Williams, was shot to death by a retired police officer while seeking help for anxiety.',
+        link: 'http://chng.it/xTQLGyDhmn'
+    },
+    tete : {
+        title: 'Justice For TETE',
+        desc: 'Tete Gulley was a 31 year old queer Black transient. She was also known by some of her family as Otis. She was found hanging from a tree on the evening of May 27th 2019 in Rocky Butte Park. The cause of death was determined to be suicide at the scene but there is evidence of foul play. ',
+        link: 'http://chng.it/zDrXj7Mgtp'
+    },
+    darriusStewart : {
+        title: 'Justice For Darrius Stewart',
+        desc: '19 year old Darrius Stewart lost his life in 2015 by a police officer In Memphis in a case of mistaken identity. He was completely unarmed.',
+        link: 'http://chng.it/Y9dFSr7sQv'
+    },
+    dafonteMiller : {
+        title: 'Justice For Dafonte Miller',
+        desc: 'Dafonte Miller was 19, when he was chased down by what we now know to be two police officers, Michael & Christian Thériault. ',
+        link: 'http://chng.it/ZK7C88dmX9'
+    },
 }
 
 export default petitionLinks;
